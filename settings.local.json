@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find '/c/Users/Prithvi Nair/OneDrive/Desktop/Deep Learning' -name *)",
+      "Bash(python -m pip install:*)",
+      "Bash(python -c:*)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(where gh:*)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/Prithvi Nair/AppData/Local/Programs//**)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh --version)"
+    ]
+  }
+}
